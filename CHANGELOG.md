@@ -1,16 +1,9 @@
-# 12.1.1
-
-## Features
-
-* **css:** Revise sticky promo component to be hidden by default  (#638)
-
-# 12.1.0
+# HEAD
 
 ## Features
 
 * **css:** (breaking) Implement brand themes. (#447)
 * **css:** Update type scale(s) (#410)
-* **css:** Add sticky promo component (#603)
 
 ## Migration Tips
 
@@ -26,6 +19,21 @@
   * `$font-zilla-slab` changes to `$font-stack-mozilla`
   * `$font-inter` changes to `$font-stack-base`
 
+# 12.1.1
+
+## Features
+
+* **css:** Revise sticky promo component to be hidden by default  (#638)
+
+# 12.1.0
+
+
+
+# 12.1.0
+
+## Features
+
+* **css:** Add sticky promo component (#603)
 
 # 12.0.1
 
