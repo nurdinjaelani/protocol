@@ -29,10 +29,6 @@
 
 # 12.1.0
 
-
-
-# 12.1.0
-
 ## Features
 
 * **css:** Add sticky promo component (#603)
